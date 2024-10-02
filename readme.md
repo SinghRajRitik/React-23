@@ -1,2 +1,2 @@
 
-# this is the first file wchich going to staged
+# this is the first file which going to staged
